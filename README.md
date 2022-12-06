@@ -1,6 +1,6 @@
 # Network Analysis using Spectral Clustering Algorithm
 A dataset recording friend relationships of 328 people is collected.
-We will use spectral clustering algorithm to find three major friends communities.<br>
+We will use first explore some basic properties of this network and visualize it, then use spectral clustering algorithm to find three major friends communities.<br>
 
 **Step 1:** Compute Adjacency matrix, Degree matrix, Laplacian matrix and Normalized Laplacian.<br>
 **Step 2:** Compute eigenvalues and eigenvectors of Normalized Laplacian, order them ASC.<br>
